@@ -1,0 +1,1 @@
+# Sample Hugo project with Ananke theme
